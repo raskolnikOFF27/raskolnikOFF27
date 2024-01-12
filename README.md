@@ -2,15 +2,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges">
-  <a href="https://ekaterinburg.hh.ru/resume/0cbdb721ff0c31f28e0039ed1f4f544b626f58">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a target="_blank" href="https://ekaterinburg.hh.ru/resume/0cbdb721ff0c31f28e0039ed1f4f544b626f58">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=#0077FF&logoColor=white" alt="Youtube Badge"/>
+  <a target="_blank" href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=#26A5E4&logoColor=white" alt="Twitter Badge"/>
+  <a target="_blank" href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 <!--
