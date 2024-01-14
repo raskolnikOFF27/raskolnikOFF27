@@ -38,7 +38,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time I solve problems on codewars and leetcode, as well as spend time learning new content because I really want to become a decent Fullstack developer!
 <br>
-    <a target="_blank">
+    <a target="_blank" href="https://www.codewars.com/users/raskolnikoff27">
       <img src="https://www.codewars.com/users/raskolnikoff27/badges/large">
     </a>
   
