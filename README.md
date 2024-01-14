@@ -9,7 +9,7 @@
   <a target="_blank" href="https://t.me/jjwbtb">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a target="_blank" href="your-vk-URL">
+  <a target="_blank" href="https://vk.com/choppanamnee">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
@@ -37,6 +37,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time I solve problems on codewars and leetcode, as well as spend time learning new content because I really want to become a decent Fullstack developer!
+<br>
+    <a target="_blank">
+      <img src="https://www.codewars.com/users/raskolnikoff27/badges/large">
+    </a>
   
 - :mailbox:How to reach me:   <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/jjwbtb">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
