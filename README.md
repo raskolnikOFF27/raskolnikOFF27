@@ -9,9 +9,6 @@
   <a target="_blank" href="https://t.me/jjwbtb">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a target="_blank" href="https://vk.com/choppanamnee">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
 </div>
 
 <div align="center">
