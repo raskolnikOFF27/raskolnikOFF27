@@ -35,7 +35,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
       <img src="https://www.codewars.com/users/raskolnikoff27/badges/large">
     </a>
   
-- :mailbox:How to reach me:   <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/ithashiro">
+- :mailbox:How to reach me:   <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/muamee4ever">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
