@@ -25,7 +25,7 @@
 ### :man_technologist: About Me:
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg.
 
-- :telescope: I've been working as a frontend developer for 8 months now, but I'm looking for relevant and good options to move to another company.
+- :telescope: I've been working as a frontend developer for 1 year now, but I'm looking for relevant and good options to move to another company.
 
 - :seedling: Exploring Technical Content Writing.
 
