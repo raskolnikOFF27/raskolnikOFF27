@@ -20,26 +20,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
+:man_technologist: About Me:
+I am a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg, committed to continuous growth and excellence in the tech field.
 
-### :man_technologist: About Me:
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg.
+:telescope: With over a year of experience as a frontend developer, I am actively seeking exciting opportunities to elevate my career and contribute to innovative projects in a dynamic environment. My goal is to join a team where I can collaborate, learn, and share my knowledge to build impactful solutions.
 
-- :telescope: I've been working as a frontend developer for 1 year now, but I'm looking for relevant and good options to move to another company.
+:seedling: I am currently exploring Technical Content Writing as a means to express my knowledge and insights in a way that helps others in their learning journeys. I believe that sharing knowledge is key to personal and professional growth.
 
-- :seedling: Exploring Technical Content Writing.
+:zap: In my free time, I enjoy solving problems on Codewars and LeetCode, pushing my limits to master complex algorithms and data structures. I dedicate time each day to learning new technologies and frameworks, as I aspire to become a well-rounded Fullstack Developer. My ambition drives me to acquire the skills necessary to tackle any challenge in the ever-evolving tech landscape.
 
-- :zap: In my free time I solve problems on codewars and leetcode, as well as spend time learning new content because I really want to become a decent Fullstack developer!
-<br>
-    <a target="_blank" href="https://www.codewars.com/users/raskolnikoff27">
-      <img src="https://www.codewars.com/users/raskolnikoff27/badges/large">
-    </a>
-  
-- :mailbox:How to reach me:   <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/muamee4ever">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<a target="_blank" href="https://www.codewars.com/users/raskolnikoff27"> <img src="https://www.codewars.com/users/raskolnikoff27/badges/large"> </a>
+:mailbox: How to reach me: <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/muamee4ever"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a>
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
