@@ -30,7 +30,6 @@ I am a passionate Frontend Developer <img src="https://media.giphy.com/media/WUl
 :zap: In my free time, I enjoy solving problems on Codewars and LeetCode, pushing my limits to master complex algorithms and data structures. I dedicate time each day to learning new technologies and frameworks, as I aspire to become a well-rounded Fullstack Developer. My ambition drives me to acquire the skills necessary to tackle any challenge in the ever-evolving tech landscape.
 
 <a target="_blank" href="https://www.codewars.com/users/raskolnikoff27"> <img src="https://www.codewars.com/users/raskolnikoff27/badges/large"> </a>
-:mailbox: How to reach me: <a style="vertical-align:middle;" align="center" target="_blank" href="https://t.me/muamee4ever"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a>
 
 
 
