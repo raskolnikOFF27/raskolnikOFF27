@@ -6,7 +6,7 @@
   <a target="_blank" href="https://ekaterinburg.hh.ru/resume/0cbdb721ff0c31f28e0039ed1f4f544b626f58">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logoColor=white" alt="HeadHunter Badge"/>
   </a>
-  <a target="_blank" href="https://t.me/jjwbtb">
+  <a target="_blank" href="https://t.me/mcl0vin34">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
