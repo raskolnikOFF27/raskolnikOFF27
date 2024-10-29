@@ -23,7 +23,7 @@
 :man_technologist: About Me:
 I am a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg, committed to continuous growth and excellence in the tech field.
 
-:telescope: With over a year of experience as a frontend developer, I am actively seeking exciting opportunities to elevate my career and contribute to innovative projects in a dynamic environment. My goal is to join a team where I can collaborate, learn, and share my knowledge to build impactful solutions.
+:telescope: With over a year of experience as a Fullstack developer, I am actively seeking exciting opportunities to elevate my career and contribute to innovative projects in a dynamic environment. My goal is to join a team where I can collaborate, learn, and share my knowledge to build impactful solutions.
 
 :seedling: I am currently exploring Technical Content Writing as a means to express my knowledge and insights in a way that helps others in their learning journeys. I believe that sharing knowledge is key to personal and professional growth.
 
