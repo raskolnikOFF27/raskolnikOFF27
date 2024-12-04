@@ -21,7 +21,7 @@
 </h1>
 
 :man_technologist: About Me:
-I am a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg, committed to continuous growth and excellence in the tech field.
+I am a passionate Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ekaterinburg, committed to continuous growth and excellence in the tech field.
 
 :telescope: With over a year of experience as a Fullstack developer, I am actively seeking exciting opportunities to elevate my career and contribute to innovative projects in a dynamic environment. My goal is to join a team where I can collaborate, learn, and share my knowledge to build impactful solutions.
 
