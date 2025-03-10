@@ -57,4 +57,3 @@ I am a passionate Fullstack Developer <img src="https://media.giphy.com/media/WU
 
 ### :fire: My Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raskolnikOFF27&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raskolnikOFF27&show_icons=true&theme=transparent)
